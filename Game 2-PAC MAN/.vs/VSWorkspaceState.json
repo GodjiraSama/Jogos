@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\gcstudios",
+    "\\src\\com\\gcstudios\\entities",
+    "\\src\\com\\gcstudios\\graficos",
+    "\\src\\com\\gcstudios\\main",
+    "\\src\\com\\gcstudios\\world"
+  ],
+  "SelectedNode": "\\src\\com\\gcstudios\\main\\Game.java",
+  "PreviewInSolutionExplorer": false
+}
